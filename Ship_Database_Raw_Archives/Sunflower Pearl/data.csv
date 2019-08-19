@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Sunflower Pearl
+Year,-,2008
+Tags,-,-
+LOA,m,165.5
+LBP,m,154.7
+B,m,27
+T,m,6
+D,m,8.4
+D_Upperdeck,m,14.3
+DWT,t,4406
+GT,t,20604
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,23.2
+MCR,%,85
+P_I,kW,18000
+N_MainEngines,-,2
+ME,-, SEMT-Pielstick 12PC2-6B
+Fuel consumption,t/day,68
+Fuel auxilaries,t/day,-
+P_Aux,kW,5710
+N_prop,-,1
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,3
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,2
+N_HoistDecks,-,-
+N_PasDecks,-,2
+A_PasRelative,-,1.6
+N_Pas,-,748
+L_Voyage,h,-
+N_Berths,-,480
+N_Cabins,-,223
+N_Crew_Total,-,34
+N_Officers,-,9
+L_Lane,-,-
+L_LaneTrailer,-,2000
+L_LaneTrailer(or),-,0
+L_LaneCar,-,0
+L_LaneCar(or),-,3400
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),1250
+Classification,-,JG
+HFO Tanks,m3,510
+LNG Tanks,m3,-
+DO Tanks,m3,150
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1980
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

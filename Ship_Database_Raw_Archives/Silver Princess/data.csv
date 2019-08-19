@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Silver Princess
+Year,-,2012
+Tags,-,-
+LOA,m,150
+LBP,m,137.5
+B,m,25
+T,m,5.7
+D,m,8
+D_Upperdeck,m,13.15
+DWT,t,4315
+GT,t,10536
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,20.5
+MCR,%,-
+P_I,kW,14400
+N_MainEngines,-,2
+ME,-, SEMT Pielstick 12PC2-6B
+Fuel consumption,t/day,55
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.2
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,1
+N_Sidedoor,-,1
+N_Insideramps,-,2
+N_Lifts,-,0
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,2
+A_PasRelative,-,1
+N_Pas,-,900
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,176
+N_Crew_Total,-,20
+N_Officers,-,9
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,30
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,92
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),-
+Classification,-,-
+HFO Tanks,m3,612
+LNG Tanks,m3,-
+DO Tanks,m3,125
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,3056
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Spirit of British Columbia
+Year,-,1993
+Tags,-,short haul
+LOA,m,167.5
+LBP,m,156
+B,m,26.6
+T,m,5
+D,m,8
+D_Upperdeck,m,-
+DWT,t,3109
+GT,t,18790
+Displacement,t,11609
+C_B,-,-
+HTS,%,-
+V_Service,knts,19.5
+MCR,%,85
+P_I,kW,15600
+N_MainEngines,-,4
+ME,-, MAN 6L40/54
+Fuel consumption,t/day,27
+Fuel auxilaries,t/day,-
+P_Aux,kW,6375
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,3.4
+Prop_RPM,rpm,215
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,2
+A_PasRelative,-,1.6
+N_Pas,-,2100
+L_Voyage,h,1.5
+N_Berths,-,-
+N_Cabins,-,-
+N_Crew_Total,-,52
+N_Officers,-,10
+L_Lane,-,-
+L_LaneTrailer,-,0
+L_LaneTrailer(or),-,-
+L_LaneCar,-,2300
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,470
+N_Cars(or),-,205
+L_Car,m,-
+N_Trailers,-,0
+N_Trailers(or),-,50
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),750
+Classification,-,ABS
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,360
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,770
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

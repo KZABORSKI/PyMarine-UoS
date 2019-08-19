@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Pride of Burgundy
+Year,-,1993
+Tags,-,-
+LOA,m,179.4
+LBP,m,170
+B,m,27.8
+T,m,6.27
+D,m,9
+D_Upperdeck,m,14.85
+DWT,t,6000
+GT,t,28238
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,21.5
+MCR,%,-
+P_I,kW,21120
+N_MainEngines,-,4
+ME,-, Sulzer 8ZA-40S
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,7460
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.5
+Prop_RPM,rpm,156
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,1.7
+N_Pas,-,1320
+L_Voyage,h,-
+N_Berths,-,196
+N_Cabins,-,79
+N_Crew_Total,-,80
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,530
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,120
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),-
+Classification,-,LR
+HFO Tanks,m3,760
+LNG Tanks,m3,-
+DO Tanks,m3,190
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2828
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

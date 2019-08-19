@@ -1,0 +1,70 @@
+﻿Vessel Name,-,F.A. Gauthier
+Year,-,2014
+Tags,-,-
+LOA,m,133.2
+LBP,m,119.92
+B,m,22
+T,m,5.57
+D,m,8
+D_Upperdeck,m,25.8
+DWT,t,1840
+GT,t,16200
+Displacement,t,10080
+C_B,-,0.652
+HTS,%,100
+V_Service,knts,20
+MCR,%,-
+P_I,kW,20880
+N_MainEngines,-,4
+ME,-,Wartsila 12V34DF
+Fuel consumption,t/day,78.8
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,-
+Azi?,y/n,y
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,2
+N_PasDecks,-,2
+A_PasRelative,-,1.6
+N_Pas,-,755
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,-
+N_Crew_Total,-,45
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1240
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1500
+Classification,-,LR
+HFO Tanks,m3,-
+LNG Tanks,m3,500
+DO Tanks,m3,350
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,950
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

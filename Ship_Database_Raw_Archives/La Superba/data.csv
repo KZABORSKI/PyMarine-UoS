@@ -1,0 +1,70 @@
+﻿Vessel Name,-,La Superba
+Year,-,2002
+Tags,-,-
+LOA,m,211.5
+LBP,m,186.21
+B,m,30.4
+T,m,7.8
+D,m,10
+D_Upperdeck,m,35.65
+DWT,t,9750
+GT,t,50400
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,28
+MCR,%,-
+P_I,kW,67200
+N_MainEngines,-,4
+ME,-, Wartsila 16V46C
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,9940
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.7
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,1
+N_HoistDecks,-,1
+N_PasDecks,-,4
+A_PasRelative,-,3.5
+N_Pas,-,3000
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,567
+N_Crew_Total,-,-
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,2780
+L_LaneTrailer(or),-,-
+L_LaneCar,-,450
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1500
+Classification,-,RINA
+HFO Tanks,m3,1926
+LNG Tanks,m3,-
+DO Tanks,m3,362
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,7851
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

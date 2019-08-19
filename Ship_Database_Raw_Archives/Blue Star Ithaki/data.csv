@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Blue Star Ithaki
+Year,-,2000
+Tags,-,-
+LOA,m,123.8
+LBP,m,111.8
+B,m,18.9
+T,m,4.9
+D,m,7.25
+D_Upperdeck,m,12.25
+DWT,t,1858
+GT,t,10193
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,24.1
+MCR,%,85
+P_I,kW,16560
+N_MainEngines,-,4
+ME,-, Wartsila 9L32
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,3.9
+Prop_RPM,rpm,185
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,2
+A_PasRelative,-,1.7
+N_Pas,-,1500
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,5
+N_Crew_Total,-,38
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,94
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,21
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),950
+Classification,-,BV
+HFO Tanks,m3,483
+LNG Tanks,m3,-
+DO Tanks,m3,62
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,738
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

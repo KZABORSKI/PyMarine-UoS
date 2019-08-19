@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Majestic
+Year,-,1993
+Tags,-,luxury
+LOA,m,188.22
+LBP,m,163.05
+B,m,27.6
+T,m,6.7
+D,m,8.3
+D_Upperdeck,m,-
+DWT,t,7150
+GT,t,32600
+Displacement,t,19070
+C_B,-,-
+HTS,%,-
+V_Service,knts,23
+MCR,%,85
+P_I,kW,23040
+N_MainEngines,-,4
+ME,-, Sulzer 8ZA-40S
+Fuel consumption,t/day,86
+Fuel auxilaries,t/day,-
+P_Aux,kW,6450
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.4
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,3
+N_Sidedoor,-,-
+N_Insideramps,-,1
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,2
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,2.8
+N_Pas,-,1500
+L_Voyage,h,20
+N_Berths,-,750
+N_Cabins,-,339
+N_Crew_Total,-,169
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1844
+L_LaneTrailer(or),-,-
+L_LaneCar,-,295
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),1000
+Classification,-,RINA
+HFO Tanks,m3,1400
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,5000
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

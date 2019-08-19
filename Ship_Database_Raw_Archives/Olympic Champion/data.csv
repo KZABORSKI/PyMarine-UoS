@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Olympic Champion
+Year,-,2000
+Tags,-,-
+LOA,m,204.15
+LBP,m,185.4
+B,m,25.8
+T,m,6.75
+D,m,9.8
+D_Upperdeck,m,-
+DWT,t,6500
+GT,t,-
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,29
+MCR,%,-
+P_I,kW,50400
+N_MainEngines,-,4
+ME,-, Wartsila 12V46C
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,5
+A_PasRelative,-,3
+N_Pas,-,1850
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,236
+N_Crew_Total,-,70
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,2000
+L_LaneTrailer(or),-,-
+L_LaneCar,-,525
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1200
+Classification,-,LR
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

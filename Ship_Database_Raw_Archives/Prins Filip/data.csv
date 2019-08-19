@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Prins Filip
+Year,-,1991
+Tags,-,-
+LOA,m,163.4
+LBP,m,150
+B,m,27
+T,m,6.2
+D,m,9.2
+D_Upperdeck,m,14.4
+DWT,t,3899
+GT,t,-
+Displacement,t,-
+C_B,-,-
+HTS,%,25
+V_Service,knts,21
+MCR,%,85
+P_I,kW,21120
+N_MainEngines,-,4
+ME,-, Sulzer 8ZA-40S
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,10880
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.7
+Prop_RPM,rpm,-
+Skeg?,y/n,n
+Bulbous Bow?,-,y
+N_Bowramps,-,2
+N_Sternramps,-,2
+N_Sidedoor,-,1
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,1.9
+N_Pas,-,1200
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,121
+N_Crew_Total,-,-
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1780
+L_LaneTrailer(or),-,0
+L_LaneCar,-,0
+L_LaneCar(or),-,2634
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,600
+L_Car,m,-
+N_Trailers,-,0
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1500
+Classification,-,BV
+HFO Tanks,m3,524
+LNG Tanks,m3,-
+DO Tanks,m3,211
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1314
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

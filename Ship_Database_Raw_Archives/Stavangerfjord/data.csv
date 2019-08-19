@@ -1,0 +1,70 @@
+﻿Vessel Name,-,StavangerFjord
+Year,-,2013
+Tags,-,-
+LOA,m,170
+LBP,m,148
+B,m,27.5
+T,m,6.35
+D,m,9.3
+D_Upperdeck,m,-
+DWT,t,-
+GT,t,31678
+Displacement,t,15712
+C_B,-,0.5977
+HTS,%,-
+V_Service,knts,21.5
+MCR,%,-
+P_I,kW,25600
+N_MainEngines,-,4
+ME,-,Royce Royce B35:4OV12PG
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.7
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,2.7
+N_Pas,-,1200
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,303
+N_Crew_Total,-,100
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,0
+L_LaneTrailer(or),-,-
+L_LaneCar,-,1350
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1600
+Classification,-,DNV
+HFO Tanks,m3,-
+LNG Tanks,m3,600
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1508
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

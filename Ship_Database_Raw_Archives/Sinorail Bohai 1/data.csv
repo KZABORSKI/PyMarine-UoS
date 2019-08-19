@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Sinorail Bohai
+Year,-,2006
+Tags,-,train
+LOA,m,182.6
+LBP,m,164.6
+B,m,24.8
+T,m,5.8
+D,m,9
+D_Upperdeck,m,15
+DWT,t,6466
+GT,t,24975
+Displacement,t,-
+C_B,-,-
+HTS,%,18
+V_Service,knts,18
+MCR,%,-
+P_I,kW,12000
+N_MainEngines,-,4
+ME,-, MaK 9M25
+Fuel consumption,t/day,38
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,-
+Azi?,y/n,y
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,0
+N_Sidedoor,-,1
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,4
+A_PasRelative,-,1.1
+N_Pas,-,480
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,98
+N_Crew_Total,-,63
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,486
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,735
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),710
+Classification,-,CCS
+HFO Tanks,m3,368
+LNG Tanks,m3,-
+DO Tanks,m3,52
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,4498
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

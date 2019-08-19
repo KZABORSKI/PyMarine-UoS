@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Ishikari
+Year,-,1991
+Tags,-,-
+LOA,m,192.5
+LBP,m,175
+B,m,27
+T,m,6.7
+D,m,9.9
+D_Upperdeck,m,-
+DWT,t,6146
+GT,t,31953
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,21.5
+MCR,%,-
+P_I,kW,29540
+N_MainEngines,-,2
+ME,-, MAN 14V52/55B
+Fuel consumption,t/day,76
+Fuel auxilaries,t/day,-
+P_Aux,kW,3600
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.8
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,3
+N_Insideramps,-,5
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,3
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,1.9
+N_Pas,-,854
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,71
+N_Crew_Total,-,76
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,151
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,165
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),-
+Classification,-,JG
+HFO Tanks,m3,827
+LNG Tanks,m3,-
+DO Tanks,m3,149
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,4723
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

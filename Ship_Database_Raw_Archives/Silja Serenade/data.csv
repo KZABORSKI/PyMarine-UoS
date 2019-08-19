@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Silja Serenade
+Year,-,1990
+Tags,-,-
+LOA,m,202.8
+LBP,m,180.7
+B,m,31.5
+T,m,6.8
+D,m,9.3
+D_Upperdeck,m,-
+DWT,t,4940
+GT,t,58400
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,20
+MCR,%,-
+P_I,kW,32580
+N_MainEngines,-,4
+ME,-, Wartsila Vasa9R46
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,14000
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,1
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,4
+A_PasRelative,-,3.4
+N_Pas,-,2500
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,-
+N_Crew_Total,-,264
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,464
+N_Cars(or),-,52
+L_Car,m,4.5
+N_Trailers,-,0
+N_Trailers(or),-,52
+L_Trailer,m,18
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1800
+Classification,-,LR
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

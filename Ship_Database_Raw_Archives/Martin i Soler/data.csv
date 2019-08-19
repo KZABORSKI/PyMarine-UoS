@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Martin I Soler
+Year,-,2008
+Tags,-,-
+LOA,m,165.3
+LBP,m,152.5
+B,m,25.6
+T,m,5.5
+D,m,8.5
+D_Upperdeck,m,15.8
+DWT,t,4370
+GT,t,24761
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,21.4
+MCR,%,90
+P_I,kW,18000
+N_MainEngines,-,2
+ME,-, MaK 9M43C
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,6110
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.25
+Prop_RPM,rpm,177
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,1
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,1
+N_PasDecks,-,-
+A_PasRelative,-,-
+N_Pas,-,1164
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,62
+N_Crew_Total,-,36
+N_Officers,-,7
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,107
+N_Cars(or),-,334
+L_Car,m,-
+N_Trailers,-,96
+N_Trailers(or),-,65
+L_Trailer,m,16
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1000
+Classification,-,BV
+HFO Tanks,m3,660
+LNG Tanks,m3,-
+DO Tanks,m3,90
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1850
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

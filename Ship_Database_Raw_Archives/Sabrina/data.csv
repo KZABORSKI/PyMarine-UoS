@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Sabrina
+Year,-,1990
+Tags,-,long haul
+LOA,m,186.5
+LBP,m,171
+B,m,24.8
+T,m,6.75
+D,m,9.5
+D_Upperdeck,m,-
+DWT,t,5770
+GT,t,12521
+Displacement,t,15814
+C_B,-,-
+HTS,%,5
+V_Service,knts,23.2
+MCR,%,-
+P_I,kW,23830
+N_MainEngines,-,2
+ME,-, Diesel United Pielstick 9PC40L
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,3000
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,2
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,3
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,1.8
+N_Pas,-,694
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,-
+N_Crew_Total,-,53
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1445
+L_LaneTrailer(or),-,-
+L_LaneCar,-,630
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,140
+N_Cars(or),-,-
+L_Car,m,4.5
+N_Trailers,-,170
+N_Trailers(or),-,-
+L_Trailer,m,8.5
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),1320
+Classification,-,JG
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

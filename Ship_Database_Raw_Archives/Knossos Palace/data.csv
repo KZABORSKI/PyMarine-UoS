@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Knossos Palace
+Year,-,2000
+Tags,-,-
+LOA,m,214
+LBP,m,181.22
+B,m,26.4
+T,m,7
+D,m,-
+D_Upperdeck,m,15.6
+DWT,t,5850
+GT,t,37482
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,29.5
+MCR,%,-
+P_I,kW,67200
+N_MainEngines,-,4
+ME,-, Wartsila 16V46C
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,11500
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.7
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,2
+N_Sidedoor,-,1
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,-
+N_SemiDecks,-,-
+N_HoistDecks,-,-
+N_PasDecks,-,3
+A_PasRelative,-,2.8
+N_Pas,-,2190
+L_Voyage,h,6
+N_Berths,-,-
+N_Cabins,-,216
+N_Crew_Total,-,130
+N_Officers,-,30
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,700
+N_Cars(or),-,110
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,120
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1300
+Classification,-,DNV
+HFO Tanks,m3,1000
+LNG Tanks,m3,-
+DO Tanks,m3,80
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,3000
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

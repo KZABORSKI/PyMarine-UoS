@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Berkarar
+Year,-,2014
+Tags,-,-
+LOA,m,155.8
+LBP,m,149
+B,m,17.5
+T,m,4.35
+D,m,7.2
+D_Upperdeck,m,12.2
+DWT,t,2400
+GT,t,9791
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,17.6
+MCR,%,90
+P_I,kW,6120
+N_MainEngines,-,2
+ME,-,Wartsila 9L26
+Fuel consumption,t/day,27.4
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,3.2
+Prop_RPM,rpm,200
+Skeg?,y/n,y
+Bulbous Bow?,-,n
+N_Bowramps,-,0
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,2
+A_PasRelative,-,1.1
+N_Pas,-,200
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,34
+N_Crew_Total,-,34
+N_Officers,-,7
+L_Lane,-,-
+L_LaneTrailer,-,970
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),500
+Classification,-,RMRS
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,164
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1430
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

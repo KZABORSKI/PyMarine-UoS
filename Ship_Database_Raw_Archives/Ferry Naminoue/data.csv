@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Ferry Naminoue
+Year,-,2012
+Tags,-,-
+LOA,m,145
+LBP,m,135
+B,m,24
+T,m,6.2
+D,m,8.25
+D_Upperdeck,m,14.5
+DWT,t,3711
+GT,t,8072
+Displacement,t,-
+C_B,-,0.5
+HTS,%,-
+V_Service,knts,21
+MCR,%,-
+P_I,kW,12140
+N_MainEngines,-,2
+ME,-, SEMT Pielstick 12PC2-6V
+Fuel consumption,t/day,52.6
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,1
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.8
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,4
+N_Lifts,-,1
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,2
+A_PasRelative,-,1.2
+N_Pas,-,707
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,47
+N_Crew_Total,-,25
+N_Officers,-,10
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,72
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,48
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),-
+Classification,-,-
+HFO Tanks,m3,545
+LNG Tanks,m3,-
+DO Tanks,m3,149
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2394
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

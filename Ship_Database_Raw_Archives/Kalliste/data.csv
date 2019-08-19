@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Kalliste
+Year,-,1993
+Tags,-,freighter
+LOA,m,165
+LBP,m,150
+B,m,29
+T,m,6.5
+D,m,8.9
+D_Upperdeck,m,16.9
+DWT,t,6600
+GT,t,29575
+Displacement,t,-
+C_B,-,-
+HTS,%,20
+V_Service,knts,20
+MCR,%,85
+P_I,kW,19720
+N_MainEngines,-,4
+ME,-, Wartsila 16V32D
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,6890
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,139
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,1.7
+N_Pas,-,202
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,98
+N_Crew_Total,-,34
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,2375
+L_LaneTrailer(or),-,-
+L_LaneCar,-,560
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,120
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1400
+Classification,-,BV
+HFO Tanks,m3,1700
+LNG Tanks,m3,-
+DO Tanks,m3,230
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2000
+Heeling Tanks,m3,230
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

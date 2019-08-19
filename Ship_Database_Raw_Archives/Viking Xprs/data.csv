@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Viking XPRS
+Year,-,2008
+Tags,-,-
+LOA,m,186.71
+LBP,m,170.13
+B,m,27.7
+T,m,6.55
+D,m,9.5
+D_Upperdeck,m,15.2
+DWT,t,9372
+GT,t,35778
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,22
+MCR,%,85
+P_I,kW,40000
+N_MainEngines,-,4
+ME,-, Wartsila 8L46F
+Fuel consumption,t/day,115
+Fuel auxilaries,t/day,12
+P_Aux,kW,7990
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.3
+Prop_RPM,rpm,143
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,4
+A_PasRelative,-,3.3
+N_Pas,-,2500
+L_Voyage,h,-
+N_Berths,-,732
+N_Cabins,-,238
+N_Crew_Total,-,105
+N_Officers,-,15
+L_Lane,-,-
+L_LaneTrailer,-,1000
+L_LaneTrailer(or),-,-
+L_LaneCar,-,1250
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1500
+Classification,-,LR
+HFO Tanks,m3,1090
+LNG Tanks,m3,-
+DO Tanks,m3,160
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1390
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

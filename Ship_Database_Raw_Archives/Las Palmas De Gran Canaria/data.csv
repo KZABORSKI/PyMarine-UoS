@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Las Palmas De Gran Canaria
+Year,-,1993
+Tags,-,-
+LOA,m,116.8
+LBP,m,101.83
+B,m,20.7
+T,m,5.3
+D,m,7.5
+D_Upperdeck,m,12.8
+DWT,t,2700
+GT,t,10473
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,16
+MCR,%,85
+P_I,kW,5280
+N_MainEngines,-,2
+ME,-, MAN 12V28/32AF
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,2100
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,1.8
+N_Pas,-,378
+L_Voyage,h,-
+N_Berths,-,78
+N_Cabins,-,-
+N_Crew_Total,-,39
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,813
+L_LaneTrailer(or),-,-
+L_LaneCar,-,180
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,40
+N_Cars(or),-,180
+L_Car,m,-
+N_Trailers,-,50
+N_Trailers(or),-,0
+L_Trailer,m,16
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),750
+Classification,-,BV
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

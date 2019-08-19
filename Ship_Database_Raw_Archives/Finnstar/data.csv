@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Finnstar
+Year,-,2006
+Tags,-,-
+LOA,m,218.8
+LBP,m,199
+B,m,30.5
+T,m,7
+D,m,9.9
+D_Upperdeck,m,16.15
+DWT,t,9300
+GT,t,45000
+Displacement,t,-
+C_B,-,-
+HTS,%,100
+V_Service,knts,25
+MCR,%,85
+P_I,kW,41580
+N_MainEngines,-,4
+ME,-, Wartsila 9L46D
+Fuel consumption,t/day,127
+Fuel auxilaries,t/day,8
+P_Aux,kW,8000
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.4
+Prop_RPM,rpm,150
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,1
+N_HoistDecks,-,1
+N_PasDecks,-,5
+A_PasRelative,-,1.1
+N_Pas,-,573
+L_Voyage,h,-
+N_Berths,-,573
+N_Cabins,-,201
+N_Crew_Total,-,50
+N_Officers,-,8
+L_Lane,-,-
+L_LaneTrailer,-,4200
+L_LaneTrailer(or),-,-
+L_LaneCar,-,280
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),2000
+Classification,-,DNV
+HFO Tanks,m3,1114
+LNG Tanks,m3,-
+DO Tanks,m3,241
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,5400
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

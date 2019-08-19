@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Barfleur
+Year,-,1992
+Tags,-,-
+LOA,m,157.65
+LBP,m,146.35
+B,m,23.3
+T,m,5.4
+D,m,8
+D_Upperdeck,m,-
+DWT,t,4130
+GT,t,20000
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,19.5
+MCR,%,85
+P_I,kW,12400
+N_MainEngines,-,4
+ME,-, Wartsila 8R32D
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,3905
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.3
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,1
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,1
+N_PasDecks,-,4
+A_PasRelative,-,1.6
+N_Pas,-,1212
+L_Voyage,h,-
+N_Berths,-,289
+N_Cabins,-,72
+N_Crew_Total,-,92
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,2510
+L_LaneTrailer(or),-,1386
+L_LaneCar,-,0
+L_LaneCar(or),-,1500
+L_TrainTrack,-,-
+N_Cars,-,0
+N_Cars(or),-,304
+L_Car,m,-
+N_Trailers,-,120
+N_Trailers(or),-,66
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),600
+Classification,-,BV
+HFO Tanks,m3,529
+LNG Tanks,m3,-
+DO Tanks,m3,147
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,741
+Heeling Tanks,m3,450
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

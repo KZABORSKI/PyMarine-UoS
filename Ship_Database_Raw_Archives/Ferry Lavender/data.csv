@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Ferry Lavender
+Year,-,1991
+Tags,-,long haul
+LOA,m,192.91
+LBP,m,181
+B,m,29.4
+T,m,6.75
+D,m,14.5
+D_Upperdeck,m,-
+DWT,t,2689
+GT,t,19904
+Displacement,t,-
+C_B,-,-
+HTS,%,0
+V_Service,knts,21.8
+MCR,%,90
+P_I,kW,26400
+N_MainEngines,-,2
+ME,-, Pielstick 8PC40L
+Fuel consumption,t/day,66.3
+Fuel auxilaries,t/day,-
+P_Aux,kW,4700
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.45
+Prop_RPM,rpm,172
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,1.8
+N_Pas,-,796
+L_Voyage,h,30
+N_Berths,-,-
+N_Cabins,-,86
+N_Crew_Total,-,53
+N_Officers,-,11
+L_Lane,-,-
+L_LaneTrailer,-,2520
+L_LaneTrailer(or),-,-
+L_LaneCar,-,360
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,80
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,186
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),1100
+Classification,-,JG
+HFO Tanks,m3,760
+LNG Tanks,m3,-
+DO Tanks,m3,140
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,6380
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

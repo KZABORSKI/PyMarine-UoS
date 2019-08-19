@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Polonia
+Year,-,1995
+Tags,-,train
+LOA,m,169.9
+LBP,m,159
+B,m,28
+T,m,5.9
+D,m,8.65
+D_Upperdeck,m,14.15
+DWT,t,7250
+GT,t,29875
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,20
+MCR,%,-
+P_I,kW,15840
+N_MainEngines,-,4
+ME,-, Stork Wartsila 6SW38
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,10400
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.3
+Prop_RPM,rpm,140
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,1
+N_Sidedoor,-,1
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,2.3
+N_Pas,-,920
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,204
+N_Crew_Total,-,-
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,2200
+L_LaneTrailer(or),-,0
+L_LaneCar,-,0
+L_LaneCar(or),-,2560
+L_TrainTrack,-,740
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,3
+P_Bowthruster,kW (each),1600
+Classification,-,DNV
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Piana
+Year,-,2011
+Tags,-,-
+LOA,m,180
+LBP,m,168.1
+B,m,30.5
+T,m,6.7
+D,m,9.8
+D_Upperdeck,m,15.8
+DWT,t,7354
+GT,t,42180
+Displacement,t,21933
+C_B,-,-
+HTS,%,5
+V_Service,knts,23.9
+MCR,%,85
+P_I,kW,38400
+N_MainEngines,-,4
+ME,-, Wartsila 8L46F-CR
+Fuel consumption,t/day,145
+Fuel auxilaries,t/day,15
+P_Aux,kW,11200
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.2
+Prop_RPM,rpm,138
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,-
+N_HoistDecks,-,-
+N_PasDecks,-,-
+A_PasRelative,-,-
+N_Pas,-,750
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,200
+N_Crew_Total,-,56
+N_Officers,-,10
+L_Lane,-,-
+L_LaneTrailer,-,2460
+L_LaneTrailer(or),-,-
+L_LaneCar,-,1143
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1900
+Classification,-,BV
+HFO Tanks,m3,1670
+LNG Tanks,m3,-
+DO Tanks,m3,260
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1700
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

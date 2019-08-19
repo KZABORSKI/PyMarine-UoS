@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Nuraghes
+Year,-,2004
+Tags,-,-
+LOA,m,214
+LBP,m,192.44
+B,m,26.4
+T,m,6.9
+D,m,10
+D_Upperdeck,m,15.29
+DWT,t,3900
+GT,t,40050
+Displacement,t,-
+C_B,-,-
+HTS,%,100
+V_Service,knts,29.5
+MCR,%,85
+P_I,kW,51360
+N_MainEngines,-,4
+ME,-,Wartsila 12V46C
+Fuel consumption,t/day,164
+Fuel auxilaries,t/day,
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.6
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,3
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,-
+N_HoistDecks,-,1
+N_PasDecks,-,2
+A_PasRelative,-,2
+N_Pas,-,2900
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,360
+N_Crew_Total,-,90
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,2000
+L_LaneTrailer(or),-,-
+L_LaneCar,-,0
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1500
+Classification,-,RINA
+HFO Tanks,m3,1000
+LNG Tanks,m3,-
+DO Tanks,m3,90
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,3000
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

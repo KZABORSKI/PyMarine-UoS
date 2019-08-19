@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Wakanatsu Okinawa
+Year,-,1991
+Tags,-,freighter
+LOA,m,151.13
+LBP,m,138
+B,m,23
+T,m,6.4
+D,m,8.6
+D_Upperdeck,m,13.7
+DWT,t,4336
+GT,t,14122
+Displacement,t,-
+C_B,-,-
+HTS,%,14
+V_Service,knts,21
+MCR,%,-
+P_I,kW,16200
+N_MainEngines,-,1
+ME,-, SEMT-Pielstick
+Fuel consumption,t/day,42.8
+Fuel auxilaries,t/day,-
+P_Aux,kW,4050
+N_prop,-,1
+CPP?,y/n,-
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,1
+N_VehDecks,-,3
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,2
+A_PasRelative,-,0.6
+N_Pas,-,150
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,24
+N_Crew_Total,-,28
+N_Officers,-,10
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,180
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,42
+N_Trailers(or),-,-
+L_Trailer,m,12.2
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),920
+Classification,-,JG
+HFO Tanks,m3,503
+LNG Tanks,m3,-
+DO Tanks,m3,151
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

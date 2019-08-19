@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Tanit
+Year,-,2012
+Tags,-,-
+LOA,m,210
+LBP,m,189.6
+B,m,30
+T,m,7.29
+D,m,10.5
+D_Upperdeck,m,16.62
+DWT,t,6126
+GT,t,52.645
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,27.5
+MCR,%,-
+P_I,kW,57600
+N_MainEngines,-,4
+ME,-, MAN 12V48/60CR
+Fuel consumption,t/day,196
+Fuel auxilaries,t/day,24.5
+P_Aux,kW,11400
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.6
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,2.7
+N_Pas,-,3200
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,653
+N_Crew_Total,-,285
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1060
+L_LaneTrailer(or),-,0
+L_LaneCar,-,349
+L_LaneCar(or),-,1400
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,14.6
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1750
+Classification,-,BV
+HFO Tanks,m3,1780
+LNG Tanks,m3,-
+DO Tanks,m3,290
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2450
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

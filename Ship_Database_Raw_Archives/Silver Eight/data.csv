@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Silver Eight
+Year,-,2013
+Tags,-,-
+LOA,m,142.59
+LBP,m,130
+B,m,23.4
+T,m,5.6
+D,m,-
+D_Upperdeck,m,-
+DWT,t,4028
+GT,t,17231
+Displacement,t,-
+C_B,-,0.596
+HTS,%,-
+V_Service,knts,20.5
+MCR,%,-
+P_I,kW,13930
+N_MainEngines,-,2
+ME,-, MAN 7L42MC6.1
+Fuel consumption,t/day,46.8
+Fuel auxilaries,t/day,5.2
+P_Aux,kW,5130
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,3
+N_Lifts,-,0
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,2
+A_PasRelative,-,1.7
+N_Pas,-,600
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,136
+N_Crew_Total,-,14
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,30
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,68
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),-
+Classification,-,JG
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2334
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

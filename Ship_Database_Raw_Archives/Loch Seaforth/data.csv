@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Loch Seaforth
+Year,-,2014
+Tags,-,-
+LOA,m,117.9
+LBP,m,111.45
+B,m,19.2
+T,m,4.8
+D,m,7
+D_Upperdeck,m,13.25
+DWT,t,1434
+GT,t,8680
+Displacement,t,-
+C_B,-,-
+HTS,%,45
+V_Service,knts,19.2
+MCR,%,-
+P_I,kW,8000
+N_MainEngines,-,2
+ME,-,Wartsila 8L32
+Fuel consumption,t/day,28.7
+Fuel auxilaries,t/day,2.8
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.1
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,1
+N_VehDecks,-,1
+N_SemiDecks,-,0
+N_HoistDecks,-,2
+N_PasDecks,-,2
+A_PasRelative,-,1.5
+N_Pas,-,700
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,-
+N_Crew_Total,-,42
+N_Officers,-,13
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,143
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,20
+N_Trailers(or),-,-
+L_Trailer,m,18
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),900
+Classification,-,LR
+HFO Tanks,m3,264
+LNG Tanks,m3,-
+DO Tanks,m3,48
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,565
+Heeling Tanks,m3,-
+Cost,m$,68
+Significant Ship,Y/N,Y
+Comments,-,-

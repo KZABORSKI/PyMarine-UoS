@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Spirit of Britain
+Year,-,2011
+Tags,-,-
+LOA,m,213
+LBP,m,197.9
+B,m,30.8
+T,m,6.55
+D,m,9.7
+D_Upperdeck,m,15.5
+DWT,t,7664
+GT,t,47592
+Displacement,t,24643
+C_B,-,0.658
+HTS,%,-
+V_Service,knts,22
+MCR,%,85
+P_I,kW,30400
+N_MainEngines,-,4
+ME,-, MAN 7L48/60CR
+Fuel consumption,t/day,50
+Fuel auxilaries,t/day,5
+P_Aux,kW,6020
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.2
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,1
+N_VehDecks,-,3
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,2.1
+N_Pas,-,2000
+L_Voyage,h,-
+N_Berths,-,0
+N_Cabins,-,0
+N_Crew_Total,-,110
+N_Officers,-,20
+L_Lane,-,-
+L_LaneTrailer,-,2741
+L_LaneTrailer(or),-,-
+L_LaneCar,-,1000
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,3
+P_Bowthruster,kW (each),300
+Classification,-,LR
+HFO Tanks,m3,1230
+LNG Tanks,m3,-
+DO Tanks,m3,190
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,3292
+Heeling Tanks,m3,918
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

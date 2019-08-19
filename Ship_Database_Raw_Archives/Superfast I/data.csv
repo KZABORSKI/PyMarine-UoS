@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Superfast I
+Year,-,1995
+Tags,-,-
+LOA,m,173.7
+LBP,m,158
+B,m,24
+T,m,6.25
+D,m,8.8
+D_Upperdeck,m,14.1
+DWT,t,5240
+GT,t,23663
+Displacement,t,15280
+C_B,-,-
+HTS,%,25
+V_Service,knts,26.8
+MCR,%,-
+P_I,kW,31680
+N_MainEngines,-,4
+ME,-, Sulzer 12ZA40S
+Fuel consumption,t/day,144
+Fuel auxilaries,t/day,8.5
+P_Aux,kW,5840
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.9
+Prop_RPM,rpm,156
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,3
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,2.4
+N_Pas,-,1400
+L_Voyage,h,20
+N_Berths,-,-
+N_Cabins,-,200
+N_Crew_Total,-,100
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1800
+L_LaneTrailer(or),-,-
+L_LaneCar,-,445
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,98
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,111
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1000
+Classification,-,ABS
+HFO Tanks,m3,1360
+LNG Tanks,m3,-
+DO Tanks,m3,92
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1260
+Heeling Tanks,m3,500
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

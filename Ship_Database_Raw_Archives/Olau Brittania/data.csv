@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Olau Britannia
+Year,-,1990
+Tags,-,-
+LOA,m,161
+LBP,m,144
+B,m,29
+T,m,6.5
+D,m,8.1
+D_Upperdeck,m,-
+DWT,t,5118
+GT,t,33336
+Displacement,t,-
+C_B,-,-
+HTS,%,0
+V_Service,knts,21.3
+MCR,%,-
+P_I,kW,19600
+N_MainEngines,-,4
+ME,-, Sulzer 8ZA40S
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,7560
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,-
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,2
+N_PasDecks,-,-
+A_PasRelative,-,-
+N_Pas,-,1600
+L_Voyage,h,-
+N_Berths,-,1600
+N_Cabins,-,-
+N_Crew_Total,-,248
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1490
+L_LaneTrailer(or),-,0
+L_LaneCar,-,0
+L_LaneCar(or),-,2588
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,575
+L_Car,m,-
+N_Trailers,-,122
+N_Trailers(or),-,0
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1400
+Classification,-,GL
+HFO Tanks,m3,-
+LNG Tanks,m3,-
+DO Tanks,m3,-
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

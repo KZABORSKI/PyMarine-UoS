@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Danielle Casanova
+Year,-,2002
+Tags,-,-
+LOA,m,176
+LBP,m,161.6
+B,m,30.4
+T,m,6.62
+D,m,9.2
+D_Upperdeck,m,18.2
+DWT,t,3400
+GT,t,44500
+Displacement,t,20100
+C_B,-,-
+HTS,%,90
+V_Service,knts,24.8
+MCR,%,80
+P_I,kW,37800
+N_MainEngines,-,4
+ME,-, Wartsila 9L46C
+Fuel consumption,t/day,150
+Fuel auxilaries,t/day,10
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5.2
+Prop_RPM,rpm,154
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,1
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,5
+A_PasRelative,-,4
+N_Pas,-,2453
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,470
+N_Crew_Total,-,174
+N_Officers,-,18
+L_Lane,-,-
+L_LaneTrailer,-,0
+L_LaneTrailer(or),-,-
+L_LaneCar,-,2000
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1600
+Classification,-,BV
+HFO Tanks,m3,1200
+LNG Tanks,m3,-
+DO Tanks,m3,350
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2000
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

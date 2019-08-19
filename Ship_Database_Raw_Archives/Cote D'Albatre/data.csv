@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Cote D'Albatre
+Year,-,2006
+Tags,-,-
+LOA,m,142.45
+LBP,m,125
+B,m,24.3
+T,m,5.7
+D,m,8.35
+D_Upperdeck,m,19.25
+DWT,t,3600
+GT,t,18425
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,22
+MCR,%,-
+P_I,kW,18900
+N_MainEngines,-,2
+ME,-, Wartsila 9L46C
+Fuel consumption,t/day,69
+Fuel auxilaries,t/day,-
+P_Aux,kW,6600
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.2
+Prop_RPM,rpm,176
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,2
+A_PasRelative,-,1.7
+N_Pas,-,600
+L_Voyage,h,-
+N_Berths,-,198
+N_Cabins,-,50
+N_Crew_Total,-,44
+N_Officers,-,8
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,224
+N_Cars(or),-,0
+L_Car,m,-
+N_Trailers,-,31
+N_Trailers(or),-,62
+L_Trailer,m,16.5
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1300
+Classification,-,BV
+HFO Tanks,m3,697
+LNG Tanks,m3,-
+DO Tanks,m3,92
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1545
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

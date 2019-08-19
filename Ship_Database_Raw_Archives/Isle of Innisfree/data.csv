@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Isle of Innisfree
+Year,-,1995
+Tags,-,-
+LOA,m,181.6
+LBP,m,172.3
+B,m,23.4
+T,m,5.6
+D,m,8.6
+D_Upperdeck,m,14.4
+DWT,t,5285
+GT,t,22365
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,22
+MCR,%,85
+P_I,kW,23040
+N_MainEngines,-,4
+ME,-, Sulzer 8ZAL40S
+Fuel consumption,t/day,60
+Fuel auxilaries,t/day,-
+P_Aux,kW,6700
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.8
+Prop_RPM,rpm,150
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,1.5
+N_Pas,-,1650
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,34
+N_Crew_Total,-,110
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,1810
+L_LaneTrailer(or),-,-
+L_LaneCar,-,333
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,74
+N_Cars(or),-,605
+L_Car,m,-
+N_Trailers,-,109
+N_Trailers(or),-,0
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1500
+Classification,-,LR
+HFO Tanks,m3,680
+LNG Tanks,m3,-
+DO Tanks,m3,165
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2170
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

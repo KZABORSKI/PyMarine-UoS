@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Mega Express
+Year,-,2001
+Tags,-,-
+LOA,m,176.01
+LBP,m,159.7
+B,m,24.8
+T,m,6.3
+D,m,9.3
+D_Upperdeck,m,17.6
+DWT,t,3500
+GT,t,23700
+Displacement,t,14500
+C_B,-,-
+HTS,%,-
+V_Service,knts,29
+MCR,%,85
+P_I,kW,46800
+N_MainEngines,-,4
+ME,-, Wartsila 12VR46C
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,9800
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,5
+Prop_RPM,rpm,155
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,2
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,2
+N_HoistDecks,-,2
+N_PasDecks,-,4
+A_PasRelative,-,2.2
+N_Pas,-,1860
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,294
+N_Crew_Total,-,104
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,790
+L_LaneTrailer(or),-,-
+L_LaneCar,-,1710
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1600
+Classification,-,RINA
+HFO Tanks,m3,1270
+LNG Tanks,m3,-
+DO Tanks,m3,131
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,988
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

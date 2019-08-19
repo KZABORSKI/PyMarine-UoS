@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Normandie
+Year,-,1992
+Tags,-,-
+LOA,m,161.4
+LBP,m,146.4
+B,m,26
+T,m,5.65
+D,m,-
+D_Upperdeck,m,-
+DWT,t,4225
+GT,t,27000
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,20.5
+MCR,%,-
+P_I,kW,17760
+N_MainEngines,-,4
+ME,-, Wartsila 12V32E
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,7380
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.8
+Prop_RPM,rpm,135
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,1
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,4
+A_PasRelative,-,2.5
+N_Pas,-,2120
+L_Voyage,h,-
+N_Berths,-,774
+N_Cabins,-,217
+N_Crew_Total,-,141
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,0
+L_LaneTrailer(or),-,-
+L_LaneCar,-,2360
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,680
+N_Cars(or),-,0
+L_Car,m,-
+N_Trailers,-,0
+N_Trailers(or),-,135
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),900
+Classification,-,BV
+HFO Tanks,m3,420
+LNG Tanks,m3,-
+DO Tanks,m3,170
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1630
+Heeling Tanks,m3,440
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

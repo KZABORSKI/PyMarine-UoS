@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Pacific Express
+Year,-,1992
+Tags,-,long haul
+LOA,m,170
+LBP,m,158
+B,m,25
+T,m,6.5
+D,m,10
+D_Upperdeck,m,20.65
+DWT,t,5113
+GT,t,11580
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,26.2
+MCR,%,90
+P_I,kW,34450
+N_MainEngines,-,2
+ME,-, SEMT-Pielstick 14PC4-2V
+Fuel consumption,t/day,129
+Fuel auxilaries,t/day,-
+P_Aux,kW,6190
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.8
+Prop_RPM,rpm,162
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,2
+N_Lifts,-,1
+N_VehDecks,-,-
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,2.2
+N_Pas,-,660
+L_Voyage,h,-
+N_Berths,-,660
+N_Cabins,-,62
+N_Crew_Total,-,50
+N_Officers,-,12
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,90
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,100
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1100
+Classification,-,-
+HFO Tanks,m3,639
+LNG Tanks,m3,-
+DO Tanks,m3,159
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2583
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

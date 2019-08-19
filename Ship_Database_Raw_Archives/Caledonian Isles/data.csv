@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Caledonian Isles
+Year,-,1993
+Tags,-,short haul
+LOA,m,94.28
+LBP,m,85.2
+B,m,15.8
+T,m,3.15
+D,m,4.5
+D_Upperdeck,m,10.7
+DWT,t,600
+GT,t,5221
+Displacement,t,3138
+C_B,-,-
+HTS,%,0
+V_Service,knts,15
+MCR,%,85
+P_I,kW,5800
+N_MainEngines,-,2
+ME,-, Mirlees Blackstone 8MB275
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,960
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,2.35
+Prop_RPM,rpm,270
+Skeg?,y/n,y
+Bulbous Bow?,-,n
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,4
+N_Lifts,-,-
+N_VehDecks,-,1
+N_SemiDecks,-,0
+N_HoistDecks,-,2
+N_PasDecks,-,2
+A_PasRelative,-,1.6
+N_Pas,-,1000
+L_Voyage,h,1
+N_Berths,-,0
+N_Cabins,-,0
+N_Crew_Total,-,28
+N_Officers,-,8
+L_Lane,-,-
+L_LaneTrailer,-,370
+L_LaneTrailer(or),-,-
+L_LaneCar,-,250
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,55
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,10
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),485
+Classification,-,LR
+HFO Tanks,m3,0
+LNG Tanks,m3,-
+DO Tanks,m3,115
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,-
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

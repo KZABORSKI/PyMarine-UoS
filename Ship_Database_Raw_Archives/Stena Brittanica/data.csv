@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Stena Britannica
+Year,-,2002
+Tags,-,-
+LOA,m,210.8
+LBP,m,197.2
+B,m,29.3
+T,m,6.3
+D,m,9.5
+D_Upperdeck,m,15.6
+DWT,t,9400
+GT,t,43500
+Displacement,t,-
+C_B,-,-
+HTS,%,40
+V_Service,knts,22.2
+MCR,%,85
+P_I,kW,25920
+N_MainEngines,-,4
+ME,-, MAN 9L40/54
+Fuel consumption,t/day,94.6
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.85
+Prop_RPM,rpm,150
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,-
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,2
+N_HoistDecks,-,1
+N_PasDecks,-,3
+A_PasRelative,-,1.2
+N_Pas,-,900
+L_Voyage,h,-
+N_Berths,-,598
+N_Cabins,-,246
+N_Crew_Total,-,72
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,3050
+L_LaneTrailer(or),-,-
+L_LaneCar,-,450
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),2200
+Classification,-,LR
+HFO Tanks,m3,960
+LNG Tanks,m3,-
+DO Tanks,m3,400
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,3000
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

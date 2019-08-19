@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Pride of Rotterdam
+Year,-,2001
+Tags,-,-
+LOA,m,215
+LBP,m,203.7
+B,m,31.5
+T,m,6.05
+D,m,9.4
+D_Upperdeck,m,17.3
+DWT,t,9268
+GT,t,59925
+Displacement,t,-
+C_B,-,-
+HTS,%,57
+V_Service,knts,22
+MCR,%,-
+P_I,kW,37800
+N_MainEngines,-,4
+ME,-, Wartsila 9L46C
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,-
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.9
+Prop_RPM,rpm,153
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,4
+N_Lifts,-,-
+N_VehDecks,-,3
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,5
+A_PasRelative,-,3
+N_Pas,-,1360
+L_Voyage,h,-
+N_Berths,-,-
+N_Cabins,-,546
+N_Crew_Total,-,141
+N_Officers,-,-
+L_Lane,-,-
+L_LaneTrailer,-,3355
+L_LaneTrailer(or),-,-
+L_LaneCar,-,1428
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),2000
+Classification,-,LR
+HFO Tanks,m3,1102
+LNG Tanks,m3,-
+DO Tanks,m3,182
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,3907
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

@@ -1,0 +1,70 @@
+﻿Vessel Name,-,IBN Battouta 2
+Year,-,1993
+Tags,-,short haul
+LOA,m,116
+LBP,m,103
+B,m,18.9
+T,m,5
+D,m,7.15
+D_Upperdeck,m,12.75
+DWT,t,1492
+GT,t,9487
+Displacement,t,5961
+C_B,-,-
+HTS,%,-
+V_Service,knts,17.85
+MCR,%,80
+P_I,kW,7000
+N_MainEngines,-,2
+ME,-, MAN 8L40/54A
+Fuel consumption,t/day,27.8
+Fuel auxilaries,t/day,3
+P_Aux,kW,2448
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,3.5
+Prop_RPM,rpm,170
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,4
+N_Lifts,-,-
+N_VehDecks,-,1
+N_SemiDecks,-,0
+N_HoistDecks,-,1
+N_PasDecks,-,2
+A_PasRelative,-,1.7
+N_Pas,-,1300
+L_Voyage,h,3
+N_Berths,-,0
+N_Cabins,-,0
+N_Crew_Total,-,80
+N_Officers,-,16
+L_Lane,-,-
+L_LaneTrailer,-,-
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,283
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,29
+N_Trailers(or),-,-
+L_Trailer,m,16
+No. Bowtrusters,-,1
+P_Bowthruster,kW (each),600
+Classification,-,BV
+HFO Tanks,m3,337
+LNG Tanks,m3,-
+DO Tanks,m3,118
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,905
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

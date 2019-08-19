@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Armorique
+Year,-,2008
+Tags,-,-
+LOA,m,168
+LBP,m,155
+B,m,26.8
+T,m,6.3
+D,m,9.3
+D_Upperdeck,m,10.3
+DWT,t,4200
+GT,t,28500
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,23
+MCR,%,85
+P_I,kW,48000
+N_MainEngines,-,4
+ME,-, MaK 12M43C
+Fuel consumption,t/day,110
+Fuel auxilaries,t/day,9
+P_Aux,kW,9200
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,4.8
+Prop_RPM,rpm,153
+Skeg?,y/n,-
+Bulbous Bow?,-,y
+N_Bowramps,-,1
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,1
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,1
+N_HoistDecks,-,0
+N_PasDecks,-,4
+A_PasRelative,-,2.4
+N_Pas,-,1500
+L_Voyage,h,-
+N_Berths,-,780
+N_Cabins,-,248
+N_Crew_Total,-,106
+N_Officers,-,24
+L_Lane,-,-
+L_LaneTrailer,-,1100
+L_LaneTrailer(or),-,-
+L_LaneCar,-,-
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,-
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,-
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1200
+Classification,-,BV
+HFO Tanks,m3,790
+LNG Tanks,m3,-
+DO Tanks,m3,170
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,2060
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-

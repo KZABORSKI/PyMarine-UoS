@@ -1,0 +1,70 @@
+﻿Vessel Name,-,Commodore Clipper
+Year,-,1999
+Tags,-,-
+LOA,m,129.4
+LBP,m,117.58
+B,m,23.4
+T,m,5
+D,m,8.6
+D_Upperdeck,m,14.3
+DWT,t,2750
+GT,t,14000
+Displacement,t,-
+C_B,-,-
+HTS,%,-
+V_Service,knts,18.55
+MCR,%,90
+P_I,kW,8640
+N_MainEngines,-,2
+ME,-, MaK 9M32
+Fuel consumption,t/day,-
+Fuel auxilaries,t/day,-
+P_Aux,kW,5800
+N_prop,-,2
+CPP?,y/n,y
+Azi?,y/n,n
+D_Prop,m,-
+Prop_RPM,rpm,161
+Skeg?,y/n,y
+Bulbous Bow?,-,y
+N_Bowramps,-,0
+N_Sternramps,-,1
+N_Sidedoor,-,-
+N_Insideramps,-,1
+N_Lifts,-,-
+N_VehDecks,-,2
+N_SemiDecks,-,0
+N_HoistDecks,-,0
+N_PasDecks,-,3
+A_PasRelative,-,1.5
+N_Pas,-,500
+L_Voyage,h,-
+N_Berths,-,80
+N_Cabins,-,20
+N_Crew_Total,-,37
+N_Officers,-,11
+L_Lane,-,-
+L_LaneTrailer,-,1235
+L_LaneTrailer(or),-,-
+L_LaneCar,-,0
+L_LaneCar(or),-,-
+L_TrainTrack,-,-
+N_Cars,-,-
+N_Cars(or),-,280
+L_Car,m,-
+N_Trailers,-,-
+N_Trailers(or),-,92
+L_Trailer,m,-
+No. Bowtrusters,-,2
+P_Bowthruster,kW (each),1300
+Classification,-,DNV
+HFO Tanks,m3,300
+LNG Tanks,m3,-
+DO Tanks,m3,80
+LO Tanks,m3,-
+FW Tanks,m3,-
+BW Tanks,m3,1850
+Heeling Tanks,m3,-
+Cost,m$,-
+Significant Ship,Y/N,Y
+Comments,-,-
