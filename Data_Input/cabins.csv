@@ -1,0 +1,6 @@
+Cabin Type,N_Cabins,Berths,Area,Outboard?,Comments
+-,-,-,m^2,Y/N,-
+First Class,20,2,22,Y,-
+Second Class,40,2,14,Y,-
+Family,60,4,24,N,-
+Disabled,4,2,18,N,-

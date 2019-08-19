@@ -1,0 +1,70 @@
+﻿Vessel Name,-
+Year,-
+Tags,-
+LOA,m
+LBP,m
+B,m
+T,m
+D,m
+D_Upperdeck,m
+DWT,t
+GT,t
+Displacement,t
+C_B,-
+HTS,%
+V_Service,knts
+MCR,%
+P_I,kW
+N_MainEngines,-
+ME,-
+Fuel consumption,t/day
+Fuel auxilaries,t/day
+P_Aux,kW
+N_prop,-
+CPP?,y/n
+Azi?,y/n
+D_Prop,m
+Prop_RPM,rpm
+Skeg?,y/n
+Bulbous Bow?,-
+N_Bowramps,-
+N_Sternramps,-
+N_Sidedoor,-
+N_Insideramps,-
+N_Lifts,-
+N_VehDecks,-
+N_SemiDecks,-
+N_HoistDecks,-
+N_PasDecks,-
+A_PasRelative,-
+N_Pas,-
+L_Voyage,h
+N_Berths,-
+N_Cabins,-
+N_Crew_Total,-
+N_Officers,-
+L_Lane,-
+L_LaneTrailer,-
+L_LaneTrailer(or),-
+L_LaneCar,-
+L_LaneCar(or),-
+L_TrainTrack,-
+N_Cars,-
+N_Cars(or),-
+L_Car,m
+N_Trailers,-
+N_Trailers(or),-
+L_Trailer,m
+No. Bowtrusters,-
+P_Bowthruster,kW (each)
+Classification,-
+HFO Tanks,m3
+LNG Tanks,m3
+DO Tanks,m3
+LO Tanks,m3
+FW Tanks,m3
+BW Tanks,m3
+Heeling Tanks,m3
+Cost,m$
+Significant Ship,Y/N
+Comments,-
