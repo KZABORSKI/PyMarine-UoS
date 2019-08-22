@@ -1,6 +1,7 @@
 # PyMarine
+Work-in-progress (WIP) version\
 Pre-concept ship design and data analysis software.\
-Libraries can be used stand alone. There is a number of naval architecture related functions.\ 
+Libraries can be used stand alone. There is a number of naval architecture related functions.\
 The project was started as a 3rd year thesis during my time at UoS.\
 Further development plan will be posted in October.\
 If you have any questions or would like to contribute, please contact me at zaborski.123@gmail.com\
