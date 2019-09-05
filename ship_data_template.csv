@@ -1,0 +1,66 @@
+Vessel Name,-
+Year,-
+Tags,-
+LOA,m
+LWL,m
+LBP,m
+B,m
+T,m
+T_Max,m
+D,m
+D_Up,m
+DWT,t
+GT,t
+Displacement,t
+C_B,-
+%HTS,%
+V_Service,knts
+V_Cruising,knts
+MCR,%
+P_I,kW
+N_MainEngines,-
+Main Engine,-
+Fuel consumption,t/day
+Fuel auxilaries,t/day
+Range,NM
+P_Aux,kW
+N_prop,-
+CPP?,Y/N
+Azi?,Y/N
+D_Prop,m
+Prop_RPM,rpm
+Skeg?,Y/N
+Bulbous Bow?,Y/N
+N_VehDecks,-
+N_PasDecks,-
+L_Voyage,h
+N_Berths,-
+N_Cabins,-
+N_Complement,-
+N_Officers,-
+N_Crew,-
+N_Pas,-
+A_Pas,m^2
+L_Lane,-
+L_LaneTrailer,-
+L_LaneCar,-
+N_Cars,-
+L_Car,m
+W_Car,t
+N_Trailers,-
+L_Trailer,m
+W_Trailer,t
+N_Bowtrusters,-
+P_Bowthruster,kW
+Classification_Society,-
+HFO_Tanks,m^3
+LNG_Tanks,m^3
+DO_Tanks,m^3
+LO_Tanks,m^3
+FW_Tanks,m^3
+BW_Tanks,m^3
+Heeling_Tanks,m^3
+Cost,m^3
+Significant Ship,Y/N
+Weblink,-
+Comments,-
