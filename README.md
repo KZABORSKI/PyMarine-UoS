@@ -1,9 +1,6 @@
-# PyMarine
-Work-in-progress (WIP) version\
-Pre-concept ship design and data analysis software.\
-Libraries can be used stand alone. There is a number of naval architecture related functions.\
-The project was started as a 3rd year thesis during my time at UoS.\
-Further development plan will be posted in October.\
-If you have any questions or would like to contribute, please contact me at zaborski.123@gmail.com\
+# PyMarine-UoS
+This is a collection of (very ugly) functions written as part of my IP at university of Southampton.
+
+The new project - PyMarine will be made available in the first quarter of 2021. Details and the link to the new repository will be made available here.
 
 Krzysztof Zaborski
